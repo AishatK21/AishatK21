@@ -53,8 +53,7 @@ A Python interface for lattice-Boltzmann project work used at TACC.
 ---
 
 ## 🎓 Leadership & Involvement
-- Break Through Tech — AI Fellow  
-- National Society of Black Engineers (NSBE)
+- Break Through Tech — AI Fellow
 
 ---
 
