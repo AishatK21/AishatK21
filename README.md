@@ -1,64 +1,78 @@
-<!--
-**AishatK21/AishatK21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Aishat (Aisha) Kolawole!
 
-Here are some ideas to get you started:
+I'm a Computer Science student and Break Through Tech AI Fellow interested in **Artificial Intelligence, Machine Learning, and security-focused technology**. I'm passionate about using technology to solve real-world problems, building accessible tools, and creating learning experiences that help others understand and engage with complex systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 👋 Hi, I'm Aishat!
-
-I'm a Computer Science student passionate about Artificial Intelligence, Machine Learning, and Software Development. I'm a Break Through Tech AI Fellow and former Undergraduate Researcher at the Texas Advanced Computing Center (TACC), where I contributed to research software and containerized a Python interface for scientific workflows.
-
-I build accessible tools and learning experiences that make complex systems easier to understand and use.
+I'm a former Undergraduate Researcher at the **Texas Advanced Computing Center (TACC)**, where I contributed to research software and containerized a Python interface for scientific workflows. Currently, I'm developing my applied AI and machine learning experience through Break Through Tech's AI Studio, collaborating on an industry-sponsored contract review challenge with Accenture.
 
 ---
 
 ## 🚀 Skills & Tools
 
-- Languages: `Python` · `Java` · `C` · `JavaScript` · `PHP` · `HTML` · `CSS` · `Bash`
-- Libraries & Frameworks: `pandas` · `NumPy` · `scikit-learn` · `Matplotlib` · `Seaborn` · `Tkinter`
-- Tools & Platforms: `Git` · `GitHub` · `Docker` · `Jupyter` · `VS Code`
+- Programming Languages: Python · Java · C · Bash
+- Libraries & Frameworks: pandas · NumPy · scikit-learn · Matplotlib · Seaborn · Tkinter
+- AI & Machine Learning: Natural Language Processing (NLP) · Text Classification · Exploratory Data Analysis · TF-IDF · Logistic Regression · Model Evaluation
+- Tools & Platforms: Linux · Git · GitHub · Docker · Jupyter Notebook · Google Colab
+- Development Environments: PyCharm · VS Code
+- Data Formats: CSV · Parquet
 
 ---
 
 ## 🔭 Featured Projects
 
-### ClawAI — Intro to AI for Middle Schoolers
-A friendly educational app that teaches text classification and core AI concepts in an approachable way.
-- Tech: `Python`, `Tkinter`, ML for Kids
+### 1. Accenture Contract Review Challenge | Fall 2026 AI Studio
+
+**Break Through Tech AI Fellowship | Cornell Tech**
+
+Collaborating with a five-person team on an applied AI and Natural Language Processing (NLP) project exploring how machine learning can support commercial contract review through automated clause identification and classification.
+
+**My Contributions:**
+- Conducted exploratory data analysis (EDA) to examine dataset structure, category distributions, and annotation patterns.
+- Developed review bundles for independent category review.
+- Conducted document chunking validation to preserve annotated evidence and maintain data integrity.
+- Supported reproducibility verification and evaluated document chunking strategies.
+- Contributed to comparison pre-registration and project documentation.
+
+**Technologies:** Python ·pandas ·NumPy ·scikit-learn ·Jupyter Notebook ·Google Colab ·Hugging Face ·Parquet
+
+[View Project Repository](https://github.com/Break-Through-Tech/Accenture-1O-contract-review-challenge)
+
+### 2. ClawAI | Introduction to AI for Middle Schoolers
+
+An educational application that introduces middle school students to artificial intelligence and text classification through an accessible, interactive experience.
+
+- Technologies: `Python`, `Tkinter`, ML for Kids
 - Focus: AI education and accessibility
 - Role: Development collaborator; translated ML concepts into teachable features  
-- Repo: https://github.com/AishatK21/ClawAI
+- [View Project Repository](https://github.com/AishatK21/ClawAI)
 
-### pyLBPM — Research Software for Porous Media
-A Python interface for lattice-Boltzmann project work used at TACC.
+### 3. pyLBPM | Research Software for Porous Media
+Contributed to a Python interface for scientific workflows involving lattice-Boltzmann modeling and porous media research at the Texas Advanced Computing Center (TACC).
+
 - Work: Developed and containerized the Python interface; improved deployment workflows
-- Tech: `Python`, `Docker`, command-line tooling
+- Tech: `Python`, `Docker`, `Linux`, Command-Line Tools
+- [View Project Repository](https://github.com/digital-porous-media/pyLBPM)
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced ML & applied AI
-- Data science workflows and tooling
-- Collaborative software development best practices
+
+- Applied Artificial Intelligence and Machine Learning
+- Natural Language Processing and model evaluation
+- Data science workflows and reproducible machine learning
+- Security-aware software development
+- Collaborative software development and version control
 
 ---
 
 ## 🎓 Leadership & Involvement
-- Break Through Tech — AI Fellow
+- **Break Through Tech AI Fellow** — Participating in an applied AI fellowship focused on machine learning, technical collaboration, and industry-sponsored projects.
 
 ---
 
 ## 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/aishat-kolawole  
-- Email: aishatkolawole18@gmail.com
+- **LinkedIn:** [Aishat Kolawole](https://www.linkedin.com/in/aishat-kolawole)
+- **Email:** [aishatkolawole18@gmail.com](mailto:aishatkolawole18@gmail.com)
+- **GitHub:** [AishatK21](https://github.com/AishatK21)
+
 
 ---
